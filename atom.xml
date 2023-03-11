@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shuyn2006.github.io/</id>
+    <title>syn_blog</title>
+    <updated>2023-03-11T14:04:42.476Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shuyn2006.github.io/"/>
+    <link rel="self" href="https://shuyn2006.github.io/atom.xml"/>
+    <subtitle>随便写写</subtitle>
+    <logo>https://shuyn2006.github.io/images/avatar.png</logo>
+    <icon>https://shuyn2006.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, syn_blog</rights>
+    <entry>
+        <title type="html"><![CDATA[拾柒]]></title>
+        <id>https://shuyn2006.github.io/post/shi-qi/</id>
+        <link href="https://shuyn2006.github.io/post/shi-qi/">
+        </link>
+        <updated>2023-01-12T15:11:01.000Z</updated>
+        <content type="html"><![CDATA[<p>17了捏~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[序]]></title>
+        <id>https://shuyn2006.github.io/post/xu/</id>
+        <link href="https://shuyn2006.github.io/post/xu/">
+        </link>
+        <updated>2023-01-01T12:48:16.000Z</updated>
+        <content type="html"><![CDATA[<p>早就有想找个地方写点东西的想法，本来想开个公众号的，但由于年龄限制（微信公众号要实名认证，必须年满18岁），没开成。几经周折，在2023年的第一天，我创建了这个网站。</p>
+<p>我很讨厌写东西。从小到大最害怕写作文，曾经写过一段时间日记，后来也不了了之。</p>
+<p>但我还是想尝试，只是希望这个网站能留住我偶然的想法。</p>
+<p>也不知道能坚持多久，就这样先看看吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://shuyn2006.github.io/post/about/</id>
+        <link href="https://shuyn2006.github.io/post/about/">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>由syn建于2023年1月1日，用来随便写点东西。</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>syn，17岁，是学生。（有玩烂梗的嫌疑啊</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>对生物学有较深的了解，对化学、心理学、环境科学、语言学略知一二。<br>
+热爱乒乓球、网球、羽毛球。<br>
+热爱音乐，能熟练演奏钢琴，较熟练地演奏木吉他。对乐理和西方音乐史略知一二。各种曲风都能接受。<br>
+擅长炉石传说，对法师和猎人理解深刻（天梯500胜），但是号没了。</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>Email：shuyn0112@gmail.com</p>
+]]></content>
+    </entry>
+</feed>
